@@ -1,4 +1,4 @@
-# Food Explorer - Front
+# Food Explorer - Front-end
 
 This is the front-end developed by Eduardo Visconti for the Food Explorer project.
 
